@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 
 
 def arithmetic_average(the_list):
@@ -26,4 +25,4 @@ if __name__ == "__main__":
     re2 = []
     for i in range(counts):
         re2.append([i, a[i]])
-    print re2
+    print(re2)
